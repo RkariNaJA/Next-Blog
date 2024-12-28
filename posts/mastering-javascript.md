@@ -8,7 +8,7 @@ date: "2024-11-20"
 
 ## What is this Project About?
 
-This **Project** is about builting a a fully functional Airbnb clone using Next.js 14+.
+This **Project** is about building a a fully functional Airbnb clone using Next.js 14+.
 
 I recently took the "Build Airbnb Full-Stack App with Next.js 14+, TypeScript, Clerk Auth, etc".
 
