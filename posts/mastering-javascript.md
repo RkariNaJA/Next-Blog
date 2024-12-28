@@ -6,7 +6,7 @@ isFeatured: false
 date: "2024-11-20"
 ---
 
-## What is this Projct About?
+## What is this Project About?
 
 This **Project** is about builting a a fully functional Airbnb clone using Next.js 14+.
 
