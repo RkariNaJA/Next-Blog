@@ -15,10 +15,10 @@ export default function Hero() {
       <h1>Hi, I'm PCK</h1>
       <p>
         PCK Blog is a sleek, easy-to-use demo site showcasing the PCK project,
-        an open-source tool for building blogs. With a clean, responsive design
-        and features like comments and social sharing, it’s perfect for both
-        beginners and experienced developers. Check out the PCK project on
-        GitHub to learn more or contribute.
+        an open-source project on GitHub. With a clean, responsive design and
+        user-friendly interface. I'd love for other developers to explore,
+        contribute, or suggest improvements. Check out the PCK project on GitHub
+        , where you'll find detailed documentation to help you get started!
       </p>
     </section>
   );
